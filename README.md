@@ -1,42 +1,76 @@
-# Hi there, I'm Ariel 👋 
-
-``` Low-Level / Systems Engineer & HPC Researcher ```
-
-I am a Computer Science student focused on the convergence of systems engineering, hardware-aware design, and High-Performance Computing (HPC). I am passionate about building highly optimized, deterministic software that respects the underlying physics of the machine, specializing in squeezing maximum throughput out of memory and network hierarchies.
+# 👨‍💻 Ariel Boutcher | elindil-sys
+### Systems Development Specialist & Low-Level Infrastructure Architect
 
 ---
 
-### 🚀 Technical Core & Architectural Focus
+## ⚡ Core Philosophy
+> *"The computer is a physical machine with explicit hardware boundaries. Optimizing software means respecting the hardware."*
 
-* 💻 **Low-Level & Infrastructure Dev:** Advanced C/C++ architectures, Go runtime primitives, memory layout optimization, and hardware-software co-design.
-* ⚡ **Performance Philosophy:** Designing cache-conscious data structures, minimizing CPU cache misses, and avoiding dynamic allocation overhead in critical latency paths.
-* 📊 **Research Interests:** Ultra-low-overhead data compression techniques, high-speed binary stream parsing, and fixed-point arithmetic models for high-performance computational infrastructure.
+I am a systems development enthusiast building fast, predictable, and memory-safe infrastructure. I build bare-metal utilities, concurrent backend architectures, and explore continuous optimization models.
 
 ---
 
-### 🛠️ The Bare-Metal Stack
+## 🏗️ Operational Matrix
+
+| Layer | Objective | Toolchain / Ecosystem | Focus Vector |
+| :--- | :--- | :--- | :--- |
+| **Bare-Metal** | Memory Safety & OS Internals | `Pure C` / `Linux Kernels` / `POSIX` | Hardware boundaries & low-level allocation |
+| **Distributed Scaling** | Concurrent Backends & FinTech | `Go (Golang)` / `PostgreSQL` / `Redis` | Thread delivery & relational transaction integrity |
+| **Advanced Research** | High-Performance Computing | `C++` / `Discrete Mathematics` | Data compression & quantitative architectures |
+
+* **🔭 Research Focus:** High-Performance Computing, Data Compression, and Quantitative Trading Models.
+* **🛡️ Operating Environment:** Running on **Arch Linux** distributions, optimizing development setups with raw terminal pipelines.
+* **🌌 Fascinations:** Astrophysics, space exploration, and studying the structural properties of stellar phenomena.
+
+---
+
+## 🛠️ Tech Stack & Tooling
 
 ```c
-// My primary environment & runtime primitives
-#define OPERATING_SYSTEM  "Arch Linux (Hyprland)"
-#define PRIMARY_LANGUAGES {"C", "C++", "Go", "Java", "Python"}
-#define CORE_INTERESTS    {"HPC", "Data Compression", "Computer Architecture"}
+#include <stdio.h>
+
+void display_stack() {
+    char* low_level   = "C, C++, Assembly";
+    char* concurrent  = "Go (Golang), Java/Spring Boot";
+    char* automation  = "Python, Shell Scripting (Bash)";
+    char* databases   = "PostgreSQL, Redis";
+    char* tooling     = "Git, Valgrind, Make/CMake, Linux CLI";
+    
+    printf("Primitives: %s\nScale: %s\n", low_level, concurrent);
+}
 ```
 
-- **Languages:** `C`, `C++`, `Go`, `Java`, `Python`, `JavaScript`
-- **Environments & Tools:** Arch Linux, Hyprland Compositor, GCC/Clang/Go profiling tools (`valgrind`, `perf`, `go tool pprof`), Git, Django (Backend Framework)
-- **Current Technical Focus:** Mastering sequential logic, bitwise stream optimization, and memory mapping based on foundational systems architecture principles.
+### 📊 Language Distribution & Velocity
+<!-- Dynamic GitHub metrics component -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elindil-sys&theme=tokyonight&layout=compact&hide_border=true&langs_count=6)
 
 ---
 
-### 🎯 Long-Term Targets
+## 🎯 Active Projects & Infrastructure
 
-I am systematically building my technical profile and research foundations to target an elite Direct Doctorate (MSc + PhD) track in Computer Science / Systems Architecture, aiming to contribute to world-class high-performance computing groups.
+| Project Pipeline | Architectural Domain | Core Stack | Optimization Engineering |
+| :--- | :--- | :--- | :--- |
+| **Mtaa Times** | Distributed Media Platform | `Go` / `Linux Buffers` | Maximizing concurrent throughput per server footprint |
+| **Medical Claims Engine** | Healthcare FinTech Adjudication | `Go` / `Relational Data` | Massively parallel transaction execution rulesets |
+| **Systems Lab** | Algorithm & Graph Blueprints | `Pure C` / `Bash` / `Make` | Rigid flag safety compiling & manual memory layout |
+
+### 🚀 [Mtaa Times](https://github.com/elindil-sys)
+A high-throughput, concurrent digital infrastructure platform designed as a modern youth media house engine. Built from the ground up to minimize resource footprints while scaling thread delivery.
+
+### 🏥 [Medical Claims Adjudication Engine](https://github.com/elindil-sys)
+A high-velocity validation and processing framework engineered for the specific data rules of the Kenyan healthcare market. Handles parallel execution threads with strict memory safety boundaries.
+
+### 💻 [Systems Lab & Algorithm Blueprints](https://github.com/elindil-sys)
+Low-level implementations of core data structures, graph theory networks, and manual memory alignment utilities compiled under rigid flag safety.
 
 ---
 
-### 🤝 Connect With Me
+## 📬 Signal Routing
 
-- **GitHub:** [@elindil-sys](https://github.com/elindil-sys)
+* **GitHub:** [@elindil-sys](https://github.com/elindil-sys)
+* **Corporate Entity:** Professional software development and digital branding through *Elindil Services*.
+* **Aesthetic Context:** Writing structural poetry and exploring virtual simulation systems when away from the terminal.
 
-*“Intellect is cheap; structural resilience and hardware-aware optimization endure.”*
+```
+[Status: Compiling Core Primitives... 100% Success]
+```
